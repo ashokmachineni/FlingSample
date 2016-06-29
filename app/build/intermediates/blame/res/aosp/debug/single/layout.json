@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/layout/item.xml",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/layout/activity_main.xml",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/layout/activity_main.xml"
+    }
+]

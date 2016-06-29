@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_whisperplay_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_whisperplay_default_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_pause_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_pause_default_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_stop_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_stop_default_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_whisperplay_default_blue_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_whisperplay_default_blue_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_rewind_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_rewind_default_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_fast_forward_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_fast_forward_default_light_24dp.png"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi-v4/ic_play_default_light_24dp.png",
+        "source": "/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/main/res/drawable-xxhdpi/ic_play_default_light_24dp.png"
+    }
+]

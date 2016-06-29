@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AmazonFling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/AmazonFling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

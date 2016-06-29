@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WhisperPlay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/android/WhisperPlay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/androidTest/shaders"/></dataSet><dataSet config="aosp"><source path="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/src/androidTestAosp/shaders"/></dataSet></merger>

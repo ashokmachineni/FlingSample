@@ -1,0 +1,56 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+apply plugin: 'com.android.application'
+
+String whisperplayLibs = '../../../lib'
+
+def computeVersionName = "1.1.1"
+def computeVersionCode = 1000000000
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.amazon.whisperplay.example.flingsample"
+        minSdkVersion 17
+        targetSdkVersion 22
+        versionCode computeVersionCode
+        versionName computeVersionName
+    }
+
+    productFlavors {
+        aosp {
+            versionCode computeVersionCode
+        }
+        fireOS {
+            versionCode computeVersionCode + 1
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+        }
+        debug {
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    compile files(whisperplayLibs + '/AmazonFling.jar')
+    aospCompile files(whisperplayLibs + '/android/WhisperPlay.jar')
+    compile files('libs/android-query.0.26.7.jar')
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="9180055508702"
+    token="-2608999457603758068" >
+
+    <task
+        name="javac"
+        duration="5207" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="442" />
+    <task
+        name="verifier"
+        duration="42" />
+
+    <artifact
+        location="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/outputs/apk/app-aosp-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9180055508702" >
+        <artifact
+            location="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/outputs/apk/app-aosp-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/lib/AmazonFling.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ae5f958aa1ea320fa25a6afc062106d28f9dad07">
+        <dex dex="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/transforms/dex/aosp/debug/folders/1000/2/AmazonFling_eddc645b65a495ed4c1ee8ea574a2a2e8877ccc1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/incremental-runtime-classes/aosp/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4888b0b6de4165a36c57c68e3c00bd7ceb392427">
+        <dex dex="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/transforms/dex/aosp/debug/folders/1000/10/instant-run_8ceba850bdf9508ed74cbfa7f9df3866d6ef4f98/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/incremental-classes/aosp/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1fac7f785a36e7ef710c2461b918aeb628e7e9ad">
+        <dex dex="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/transforms/dex/aosp/debug/folders/1000/10/instant-run-bootstrap_0b5588653ba08e9e5ce5cbb951ac9a5a6c2df399/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/libs/android-query.0.26.7.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="aa997823bc89263500714864ff136de1e6025b4e">
+        <dex dex="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/transforms/dex/aosp/debug/folders/1000/2/android-query.0.26.7_4659dab49ac76173029eab314a0a2fea093ad245/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/lib/android/WhisperPlay.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="77301447dbda0f09c68bafef3e293a9cbc0829ef">
+        <dex dex="/Users/ashok/Desktop/images/AmazonFling-SDK/android-sdk/samples/FlingSample/app/build/intermediates/transforms/dex/aosp/debug/folders/1000/2/WhisperPlay_d34fb7294b9348627bb55f7317ef5c19abba2f97/classes.dex" />
+    </item>
+
+</items>
